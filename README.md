@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexBejengen
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML and C++
+- 🌱 I’m currently learning Java and android
 - 📫 How to reach me, alex.bejengen on instragam
 
 <!---
